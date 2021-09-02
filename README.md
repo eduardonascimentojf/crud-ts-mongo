@@ -16,7 +16,7 @@
 	<br>
 		ou
 	<br>
-		yarn intall
+		yarn install
 	</p>
 </div>
 
